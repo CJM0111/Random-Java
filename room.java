@@ -8,7 +8,6 @@ import java.util.*;
 
 public class room
 {
-    // data
     int mainroom;
     int adjacent1;
     int adjacent2;
