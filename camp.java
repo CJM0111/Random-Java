@@ -9,7 +9,6 @@ public class camp implements Comparable
     int age;
     String gender;
     String blank;
-    
     /** 
      Constructor to read form a file
      @param r Scanner object to read from
