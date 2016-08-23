@@ -1,2 +1,2 @@
-# Random-Java
-Random projects implemented using the Java programming language
+# Random Java
+Random projects implemented using the Java
